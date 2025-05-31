@@ -1,0 +1,619 @@
+[28-Mar-2025 16:30:10 UTC] Session data missing - possible session timeout
+[28-Mar-2025 16:32:43 UTC] Session data missing - possible session timeout
+[28-Mar-2025 16:33:10 UTC] Hash verification failed for txnid: Txn85370941. Expected: 289d220f5d787c87a88ca1542d75f904c699b1d8273f61792acb9697564559f6bc17edfb8ff3a88594c733a192de326f6b361b24cc02e4a312fae47f698254b3, Received: c26648daa55a77f971805dbcd3dc2b1d629224e050783360717d5565fe5417f496504218bf456a1fb71169dc1ce20577ee55e8559451c6465c6e050ea2f5ccf2
+[28-Mar-2025 16:34:09 UTC] Hash verification failed for txnid: Txn85370941. Expected: 289d220f5d787c87a88ca1542d75f904c699b1d8273f61792acb9697564559f6bc17edfb8ff3a88594c733a192de326f6b361b24cc02e4a312fae47f698254b3, Received: c26648daa55a77f971805dbcd3dc2b1d629224e050783360717d5565fe5417f496504218bf456a1fb71169dc1ce20577ee55e8559451c6465c6e050ea2f5ccf2
+[28-Mar-2025 16:34:38 UTC] Hash verification failed for txnid: Txn50589818. Expected: 10e1fb6bc3eab3e69fb0318a3f59a6ca06ac59c2bcbaf51f4eb638dfb2835f8595e67e7dc3c68cce0585f84d1ce51972fc7f6348d0417b5ce5c84e4bbec86279, Received: c5d161b954a1aad2adbb2bea7ae647d8e323ce652de15dae4a186b0a098ade4c5d433f4ff38b5d36133303fb8f2945f0dd3fd37c7f13de57701fd484f693de32
+[28-Mar-2025 16:39:06 UTC] Session data missing - possible session timeout
+[28-Mar-2025 16:39:37 UTC] Hash verification failed for txnid: Txn92529460. Expected: a0b3c62d47f105ad61a746fe4749eddb1dd7f240957674c04cc350555350c2d1815c5e4179265e32f0a16c68721e61a7a2545e6b866873f7a107e97d4743b36f, Received: 4eff4f5b98b95a367e2abe2836d9395eba001e32de967156770277d32194924e3fccb4aac13dca0f8f1864e1c49a89917d836cf16bdb77797717f8e6eb4ae889
+[28-Mar-2025 16:46:15 UTC] Session data missing - possible session timeout
+[28-Mar-2025 16:46:40 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22969706923
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn87909680
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:16:22
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => 22fcdb0211c22744de450a693f813130b7b809af6930331178a14dd4114a7b7018349969d7a787c01449b042ad45ecdd911fc446480f548eafc5e4cc793718d2
+    [field1] => 
+    [field2] => 273990
+    [field3] => mihirpatel2715@ybl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2296970692328032522162567e6d261
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 072646341189
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 16:46:40 UTC] Hash calculation details:
+[28-Mar-2025 16:46:40 UTC] Sequence: dmSIYv|Txn87909680|1.00|Tournament Join||testemail@gmail.com|||||PayUBiz_PHP7_Kit|||||lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD
+[28-Mar-2025 16:46:40 UTC] Calculated Hash: f3e53b0b790ab5a8b4d8ca297448ae25530428658c1e87b726644c071ca447f989f6ca944c003355cb044814a9cfda133d69bf244c7a1e0963bacbda4d4666af
+[28-Mar-2025 16:46:40 UTC] Received Hash: 22fcdb0211c22744de450a693f813130b7b809af6930331178a14dd4114a7b7018349969d7a787c01449b042ad45ecdd911fc446480f548eafc5e4cc793718d2
+[28-Mar-2025 16:46:40 UTC] Hash verification failed for txnid: Txn87909680
+[28-Mar-2025 16:46:40 UTC] Expected: f3e53b0b790ab5a8b4d8ca297448ae25530428658c1e87b726644c071ca447f989f6ca944c003355cb044814a9cfda133d69bf244c7a1e0963bacbda4d4666af
+[28-Mar-2025 16:46:40 UTC] Received: 22fcdb0211c22744de450a693f813130b7b809af6930331178a14dd4114a7b7018349969d7a787c01449b042ad45ecdd911fc446480f548eafc5e4cc793718d2
+[28-Mar-2025 16:55:03 UTC] Session data missing - possible session timeout
+[28-Mar-2025 16:56:55 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22969810643
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn16258883
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:26:28
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => 583540bc93a96ce148442cef148e2dab6cba8500976b5c3d92f4e010d3c92e90da39e1daa10f9b1ea4d8ac9ac029fcbd4aa001852e9ab4adc634465701fd2e36
+    [field1] => 
+    [field2] => 361829
+    [field3] => mihirpatel2715@axl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2296981064328032522263367e6d4c1
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 409128121017
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 16:56:55 UTC] PHP Warning:  Undefined array key "salt" in /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php on line 42
+[28-Mar-2025 16:56:55 UTC] Hash calculation details:
+[28-Mar-2025 16:56:55 UTC] Sequence: dmSIYv|Txn16258883|1.00|Tournament Join||testemail@gmail.com|||||PayUBiz_PHP7_Kit|||||
+[28-Mar-2025 16:56:55 UTC] Calculated Hash: ebb1227258c51b98751a35a758cd12dac75c07d620411d83dbb2155d93a5b6950801009f8448f0d5c7485f2152bdf9a22db1b41455c97154d9b8d298e9ca6e18
+[28-Mar-2025 16:56:55 UTC] Received Hash: 583540bc93a96ce148442cef148e2dab6cba8500976b5c3d92f4e010d3c92e90da39e1daa10f9b1ea4d8ac9ac029fcbd4aa001852e9ab4adc634465701fd2e36
+[28-Mar-2025 16:56:55 UTC] Hash verification failed for txnid: Txn16258883
+[28-Mar-2025 16:56:55 UTC] Expected: ebb1227258c51b98751a35a758cd12dac75c07d620411d83dbb2155d93a5b6950801009f8448f0d5c7485f2152bdf9a22db1b41455c97154d9b8d298e9ca6e18
+[28-Mar-2025 16:56:55 UTC] Received: 583540bc93a96ce148442cef148e2dab6cba8500976b5c3d92f4e010d3c92e90da39e1daa10f9b1ea4d8ac9ac029fcbd4aa001852e9ab4adc634465701fd2e36
+[28-Mar-2025 16:58:27 UTC] Session data missing
+[28-Mar-2025 16:58:52 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22969831506
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn57111808
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:28:33
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => cee6c2e1b0a16638c1ac5458227d4da14f7b52b6c3eb215fc77fccf91f112bdfce3085a0bb03053ef4a02b7a71ef656cd688c6d3f091875c9aee1c5eae6f7d93
+    [field1] => 
+    [field2] => 377530
+    [field3] => mihirpatel2715@ibl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2296983150628032522283767e6d53d
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 124381205977
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 16:58:52 UTC] Hash Sequence: lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD|success|||||PayUBiz_PHP7_Kit|testemail@gmail.com||Tournament Join|1.00|Txn57111808|dmSIYv
+[28-Mar-2025 16:58:52 UTC] Calculated Hash: 7415d3d0f4f5581d3eee22908ddafbdd15c33c0b2eaf0334fc79fa3e9c34b7c12413683a029d44a56ae2ca7af5805f21104a056fdf1f378bd1f8ec152d6208fa
+[28-Mar-2025 16:58:52 UTC] Received Hash: cee6c2e1b0a16638c1ac5458227d4da14f7b52b6c3eb215fc77fccf91f112bdfce3085a0bb03053ef4a02b7a71ef656cd688c6d3f091875c9aee1c5eae6f7d93
+[28-Mar-2025 16:58:52 UTC] Hash mismatch - Expected: 7415d3d0f4f5581d3eee22908ddafbdd15c33c0b2eaf0334fc79fa3e9c34b7c12413683a029d44a56ae2ca7af5805f21104a056fdf1f378bd1f8ec152d6208fa, Received: cee6c2e1b0a16638c1ac5458227d4da14f7b52b6c3eb215fc77fccf91f112bdfce3085a0bb03053ef4a02b7a71ef656cd688c6d3f091875c9aee1c5eae6f7d93
+[28-Mar-2025 16:59:09 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22969831506
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn57111808
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:28:33
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => cee6c2e1b0a16638c1ac5458227d4da14f7b52b6c3eb215fc77fccf91f112bdfce3085a0bb03053ef4a02b7a71ef656cd688c6d3f091875c9aee1c5eae6f7d93
+    [field1] => 
+    [field2] => 377530
+    [field3] => mihirpatel2715@ibl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2296983150628032522283767e6d53d
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 124381205977
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 16:59:09 UTC] Hash Sequence: lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD|success|||||PayUBiz_PHP7_Kit|testemail@gmail.com||Tournament Join|1.00|Txn57111808|dmSIYv
+[28-Mar-2025 16:59:09 UTC] Calculated Hash: 7415d3d0f4f5581d3eee22908ddafbdd15c33c0b2eaf0334fc79fa3e9c34b7c12413683a029d44a56ae2ca7af5805f21104a056fdf1f378bd1f8ec152d6208fa
+[28-Mar-2025 16:59:09 UTC] Received Hash: cee6c2e1b0a16638c1ac5458227d4da14f7b52b6c3eb215fc77fccf91f112bdfce3085a0bb03053ef4a02b7a71ef656cd688c6d3f091875c9aee1c5eae6f7d93
+[28-Mar-2025 16:59:09 UTC] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/u368665053/domains/clash27.com/public_html/back/notifications.php:56
+Stack trace:
+#0 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(160): Notifications->pushNotificationToSingle()
+#1 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(120): processSuccessfulPayment()
+#2 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(73): verifyWithPayU()
+#3 {main}
+  thrown in /home/u368665053/domains/clash27.com/public_html/back/notifications.php on line 56
+[28-Mar-2025 16:59:35 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22969838268
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn90949465
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:29:15
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => 5bd528c3e408560e468c72bbbf3f8d68748c32e3d39e25a58a74e695870f237052f3a99c7168967f3cd4aee67ea5953718a86a3469df408b4ac6a8d4db7d6cd6
+    [field1] => 
+    [field2] => 382810
+    [field3] => mihirpatel2715@ybl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2296983826828032522292067e6d568
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 232873754117
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 16:59:35 UTC] Hash Sequence: lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD|success|||||PayUBiz_PHP7_Kit|testemail@gmail.com||Tournament Join|1.00|Txn90949465|dmSIYv
+[28-Mar-2025 16:59:35 UTC] Calculated Hash: 4df97fdb8d56d7ed6fd7b0fed1188fe92af66eb890d1672db327b2869c0964a8e8bf08ed4c9d4433de5ccf5aa2eb7cf59a71ed6473ed7f437ff239e5f3fdefeb
+[28-Mar-2025 16:59:35 UTC] Received Hash: 5bd528c3e408560e468c72bbbf3f8d68748c32e3d39e25a58a74e695870f237052f3a99c7168967f3cd4aee67ea5953718a86a3469df408b4ac6a8d4db7d6cd6
+[28-Mar-2025 16:59:35 UTC] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/u368665053/domains/clash27.com/public_html/back/notifications.php:56
+Stack trace:
+#0 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(160): Notifications->pushNotificationToSingle()
+#1 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(120): processSuccessfulPayment()
+#2 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(73): verifyWithPayU()
+#3 {main}
+  thrown in /home/u368665053/domains/clash27.com/public_html/back/notifications.php on line 56
+[28-Mar-2025 16:59:52 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22969838268
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn90949465
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:29:15
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => 5bd528c3e408560e468c72bbbf3f8d68748c32e3d39e25a58a74e695870f237052f3a99c7168967f3cd4aee67ea5953718a86a3469df408b4ac6a8d4db7d6cd6
+    [field1] => 
+    [field2] => 382810
+    [field3] => mihirpatel2715@ybl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2296983826828032522292067e6d568
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 232873754117
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 16:59:52 UTC] Hash Sequence: lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD|success|||||PayUBiz_PHP7_Kit|testemail@gmail.com||Tournament Join|1.00|Txn90949465|dmSIYv
+[28-Mar-2025 16:59:52 UTC] Calculated Hash: 4df97fdb8d56d7ed6fd7b0fed1188fe92af66eb890d1672db327b2869c0964a8e8bf08ed4c9d4433de5ccf5aa2eb7cf59a71ed6473ed7f437ff239e5f3fdefeb
+[28-Mar-2025 16:59:52 UTC] Received Hash: 5bd528c3e408560e468c72bbbf3f8d68748c32e3d39e25a58a74e695870f237052f3a99c7168967f3cd4aee67ea5953718a86a3469df408b4ac6a8d4db7d6cd6
+[28-Mar-2025 16:59:52 UTC] PHP Fatal error:  Uncaught Error: Class "Notification" not found in /home/u368665053/domains/clash27.com/public_html/back/notifications.php:56
+Stack trace:
+#0 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(160): Notifications->pushNotificationToSingle()
+#1 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(120): processSuccessfulPayment()
+#2 /home/u368665053/domains/clash27.com/public_html/back/Payment-Gateways/PayUMoney/response.php(73): verifyWithPayU()
+#3 {main}
+  thrown in /home/u368665053/domains/clash27.com/public_html/back/notifications.php on line 56
+[28-Mar-2025 17:02:27 UTC] Session data missing
+[28-Mar-2025 17:02:35 UTC] Session data missing
+[28-Mar-2025 17:22:25 UTC] Session data missing - salt: not set
+[28-Mar-2025 17:22:32 UTC] Session data missing - salt: not set
+[28-Mar-2025 17:24:17 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22970073011
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn22382225
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:53:52
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => dace18d0739e51241b487dde9cba3ea4e083aeffe7e6c9b68b1844a95fbde804fb10b2422927cd7b86e6d0799067e6c9de5c87b692b4a61fb5328ec95321beca
+    [field1] => 
+    [field2] => 560897
+    [field3] => mihirpatel2715@axl
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2297007301128032522535667e6db2c
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 201238291464
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 17:24:17 UTC] Hash calculation details:
+[28-Mar-2025 17:24:17 UTC] Sequence: lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD|success|||||PayUBiz_PHP7_Kit|testemail@gmail.com||Tournament Join|1.00|Txn22382225|dmSIYv
+[28-Mar-2025 17:24:17 UTC] Calculated Hash: ce6f6e2d985eaf631c11071f96f0f19d51141ffc6de43da12524c46a80a93c18e6656958a20f8220d298f82eb44652d6dae39dbb940a8c46fa042653c54d35f3
+[28-Mar-2025 17:24:17 UTC] Received Hash: dace18d0739e51241b487dde9cba3ea4e083aeffe7e6c9b68b1844a95fbde804fb10b2422927cd7b86e6d0799067e6c9de5c87b692b4a61fb5328ec95321beca
+[28-Mar-2025 17:24:17 UTC] Hash verification failed for txnid: Txn22382225
+[28-Mar-2025 17:24:17 UTC] Expected: ce6f6e2d985eaf631c11071f96f0f19d51141ffc6de43da12524c46a80a93c18e6656958a20f8220d298f82eb44652d6dae39dbb940a8c46fa042653c54d35f3
+[28-Mar-2025 17:24:17 UTC] Received: dace18d0739e51241b487dde9cba3ea4e083aeffe7e6c9b68b1844a95fbde804fb10b2422927cd7b86e6d0799067e6c9de5c87b692b4a61fb5328ec95321beca
+[28-Mar-2025 17:26:27 UTC] Session data missing - possible session timeout
+[28-Mar-2025 17:27:25 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22970100962
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn65823053
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:57:00
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => eef6a09e9d560063b577405ac4e1901ca3fecbe278d424796bb1063d14b818e4cf41faf6653cd143a4e20c04791b24e672e996d6b8f420dff527b72243936278
+    [field1] => 
+    [field2] => 579429
+    [field3] => patelmihir2712005@okhdfcbank
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2297010096228032522570067e6dbe4
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 102216821770
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 17:27:25 UTC] Hash calculation details:
+[28-Mar-2025 17:27:25 UTC] Sequence: dmSIYv|Txn65823053|1.00|Tournament Join||testemail@gmail.com|||||PayUBiz_PHP7_Kit|||||lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD
+[28-Mar-2025 17:27:25 UTC] Calculated Hash: 94ba23581111fad8812b52a6e5d1b97d6a8d98916031478ab63b38e7fdb90d8b7de0278cbbf3324324826fb4cfe9522a0a482b523ceccf40e2043ac0a3ebdb83
+[28-Mar-2025 17:27:25 UTC] Received Hash: eef6a09e9d560063b577405ac4e1901ca3fecbe278d424796bb1063d14b818e4cf41faf6653cd143a4e20c04791b24e672e996d6b8f420dff527b72243936278
+[28-Mar-2025 17:27:25 UTC] Hash verification failed for txnid: Txn65823053
+[28-Mar-2025 17:27:25 UTC] Expected: 94ba23581111fad8812b52a6e5d1b97d6a8d98916031478ab63b38e7fdb90d8b7de0278cbbf3324324826fb4cfe9522a0a482b523ceccf40e2043ac0a3ebdb83
+[28-Mar-2025 17:27:25 UTC] Received: eef6a09e9d560063b577405ac4e1901ca3fecbe278d424796bb1063d14b818e4cf41faf6653cd143a4e20c04791b24e672e996d6b8f420dff527b72243936278
+[28-Mar-2025 17:29:22 UTC] Session data missing - possible session timeout
+[28-Mar-2025 17:29:31 UTC] Session data missing - possible session timeout
+[28-Mar-2025 17:30:00 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22970123416
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn32921613
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 22:59:40
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => b13375dace7b4215ddba096ebaf2f124f5e643c1edecc04bee0367e8d0cdaa503404df2737b7323d3d253ff7c091caf58052b81586091b29ba3035300f2026d2
+    [field1] => 
+    [field2] => 594955
+    [field3] => patelmihir2712005@okhdfcbank
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2297012341628032522594367e6dc87
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 102216897575
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 17:30:00 UTC] Hash Sequence: dmSIYv|Txn32921613|1.00|Tournament Join||testemail@gmail.com|||||PayUBiz_PHP7_Kit|||||lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD
+[28-Mar-2025 17:30:00 UTC] Calculated Hash: bcd84f94eeb725cd0a210c3eb414d23f3cd9c18a301cef96c1202ab9a02b6e66dd78fa877c219c034bf17fbb3598f16a22493989131a951760a0422355edfc43
+[28-Mar-2025 17:30:00 UTC] Received Hash: b13375dace7b4215ddba096ebaf2f124f5e643c1edecc04bee0367e8d0cdaa503404df2737b7323d3d253ff7c091caf58052b81586091b29ba3035300f2026d2
+[28-Mar-2025 17:30:00 UTC] CRITICAL: Hash mismatch - Expected: bcd84f94eeb725cd0a210c3eb414d23f3cd9c18a301cef96c1202ab9a02b6e66dd78fa877c219c034bf17fbb3598f16a22493989131a951760a0422355edfc43, Received: b13375dace7b4215ddba096ebaf2f124f5e643c1edecc04bee0367e8d0cdaa503404df2737b7323d3d253ff7c091caf58052b81586091b29ba3035300f2026d2
+[28-Mar-2025 17:30:00 UTC] Please verify your salt/key match PayU dashboard exactly
+[28-Mar-2025 17:32:11 UTC] Session data missing - salt: not set
+[28-Mar-2025 17:32:14 UTC] Session data missing - salt: not set
+[28-Mar-2025 17:32:45 UTC] Received PayU response: Array
+(
+    [mihpayid] => 22970149053
+    [mode] => UPI
+    [status] => success
+    [unmappedstatus] => captured
+    [key] => dmSIYv
+    [txnid] => Txn42724794
+    [amount] => 1.00
+    [discount] => 0.00
+    [net_amount_debit] => 1
+    [addedon] => 2025-03-28 23:02:22
+    [productinfo] => Tournament Join
+    [firstname] => 
+    [lastname] => 
+    [address1] => 
+    [address2] => 
+    [city] => 
+    [state] => 
+    [country] => 
+    [zipcode] => 
+    [email] => testemail@gmail.com
+    [phone] => 8160628914
+    [udf1] => 
+    [udf2] => 
+    [udf3] => 
+    [udf4] => 
+    [udf5] => PayUBiz_PHP7_Kit
+    [udf6] => 
+    [udf7] => 
+    [udf8] => 
+    [udf9] => 
+    [udf10] => 
+    [hash] => 4bd15366e142bf0a45b9ee29c718a7b032f9cdc0d8d70e56276e578ea6b4515e0d3e24ba8f24e63cefd55936b9b642af7547161f9f4f032df670f8cd24f391c9
+    [field1] => 
+    [field2] => 610495
+    [field3] => patelmihir2712005@okhdfcbank
+    [field4] => 
+    [field5] => mihirkumarkamleshbhaip-12991912.payu@indus
+    [field6] => PPPL2297014905328032523022667e6dd2a
+    [field7] => APPROVED OR COMPLETED SUCCESSFULLY|00
+    [field8] => genericintent
+    [field9] => Success|Completed Using Callback
+    [payment_source] => payu
+    [meCode] => {"pgMerchantId":"INDB000009754826","encKey":"02be3a84b9fa9a23c49117e463f6ddfd92e19b7d71a1ead6e101417ca54420fd7248fd48195e70d01e6326fa82060919","merchantVpa":"MIHIRKUMARKAMLESHBHAIP-12991912.payu@indus"}
+    [PG_TYPE] => UPI-PG
+    [bank_ref_num] => 102216985740
+    [bankcode] => INTENT
+    [error] => E000
+    [error_Message] => No Error
+)
+
+[28-Mar-2025 17:32:45 UTC] Hash Calculation Details:
+[28-Mar-2025 17:32:45 UTC] Salt Used: lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD
+[28-Mar-2025 17:32:45 UTC] Full Sequence: dmSIYv|Txn42724794|1.00|Tournament Join||testemail@gmail.com|||||PayUBiz_PHP7_Kit||||||lnuj9lIYBmzn0L1cOvUBJrkwqOtxbASD
+[28-Mar-2025 17:32:45 UTC] Calculated Hash: 10d6ca8bf3a0ee217087f8a1bb24c869de3acc9b826647f12980be8e00692efac20555ecf12d21f2dd77a2e6f21f2b3721fedd1d7cea8b6d3358efc60b6432f3
+[28-Mar-2025 17:32:45 UTC] Received Hash: 4bd15366e142bf0a45b9ee29c718a7b032f9cdc0d8d70e56276e578ea6b4515e0d3e24ba8f24e63cefd55936b9b642af7547161f9f4f032df670f8cd24f391c9
+[28-Mar-2025 17:32:45 UTC] Hash Mismatch Error:
+[28-Mar-2025 17:32:45 UTC] Expected: 10d6ca8bf3a0ee217087f8a1bb24c869de3acc9b826647f12980be8e00692efac20555ecf12d21f2dd77a2e6f21f2b3721fedd1d7cea8b6d3358efc60b6432f3
+[28-Mar-2025 17:32:45 UTC] Received: 4bd15366e142bf0a45b9ee29c718a7b032f9cdc0d8d70e56276e578ea6b4515e0d3e24ba8f24e63cefd55936b9b642af7547161f9f4f032df670f8cd24f391c9
+[28-Mar-2025 17:32:45 UTC] Please verify:
+[28-Mar-2025 17:32:45 UTC] 1. Salt/key match PayU dashboard exactly
+[28-Mar-2025 17:32:45 UTC] 2. No trailing spaces in parameters
+[28-Mar-2025 17:32:45 UTC] 3. All empty fields are included in hash

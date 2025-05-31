@@ -1,0 +1,20 @@
+2023-03-17 06:58:48  |  Query = SELECT * FROM payment_gateways WHERE id = '4'
+
+2023-03-17 06:58:48  |  Query = SELECT fullname, email, mobile FROM users WHERE id = '1'
+
+2023-03-17 07:05:37  |  Query = SELECT * FROM payment_gateways WHERE id = '4'
+
+2023-03-17 07:05:37  |  Query = SELECT fullname, email, mobile FROM users WHERE id = '709'
+
+2023-03-22 15:20:15  |  Query = SELECT * FROM payment_gateways WHERE id = '4'
+
+2023-03-22 15:20:15  |  Query = SELECT fullname, email, mobile FROM users WHERE id = '740'
+
+2023-03-23 03:02:18  |  Query = SELECT * FROM payment_gateways WHERE id = '4'
+
+2023-03-23 03:02:18  |  Query = SELECT fullname, email, mobile FROM users WHERE id = '677'
+
+2023-03-23 03:22:29  |  Query = SELECT * FROM payment_gateways WHERE id = '4'
+
+2023-03-23 03:22:29  |  Query = SELECT fullname, email, mobile FROM users WHERE id = '677'
+

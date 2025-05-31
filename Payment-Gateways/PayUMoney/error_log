@@ -1,0 +1,30 @@
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Undefined array key "email" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 24
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Undefined array key "mobile" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 30
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Undefined variable $getAmount in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Undefined variable $userRow in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Undefined variable $getAmount in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 61
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Undefined variable $userRow in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[25-Feb-2023 07:27:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[25-Feb-2023 07:28:31 UTC] PHP Warning:  Undefined array key "email" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 24
+[25-Feb-2023 07:28:31 UTC] PHP Warning:  Undefined array key "mobile" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 30
+[25-Feb-2023 07:28:31 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[25-Feb-2023 07:28:31 UTC] PHP Warning:  Undefined variable $getAmount in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 61
+[25-Feb-2023 07:28:31 UTC] PHP Warning:  Undefined variable $userRow in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[25-Feb-2023 07:28:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[25-Feb-2023 07:28:57 UTC] PHP Warning:  Undefined array key "email" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 24
+[25-Feb-2023 07:28:57 UTC] PHP Warning:  Undefined array key "mobile" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 30
+[25-Feb-2023 07:28:57 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[25-Feb-2023 07:28:57 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[01-Mar-2023 15:00:25 UTC] PHP Warning:  Undefined array key "email" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 24
+[01-Mar-2023 15:00:25 UTC] PHP Warning:  Undefined array key "mobile" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 30
+[01-Mar-2023 15:00:25 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[01-Mar-2023 15:00:25 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[01-Mar-2023 15:00:58 UTC] PHP Warning:  Undefined array key "email" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 24
+[01-Mar-2023 15:00:58 UTC] PHP Warning:  Undefined array key "mobile" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 30
+[01-Mar-2023 15:00:58 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[01-Mar-2023 15:00:58 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
+[06-Jun-2023 04:23:43 UTC] PHP Warning:  Undefined array key "email" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 24
+[06-Jun-2023 04:23:43 UTC] PHP Warning:  Undefined array key "mobile" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 30
+[06-Jun-2023 04:23:43 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 41
+[06-Jun-2023 04:23:43 UTC] PHP Warning:  Undefined array key "fullname" in /home3/rmgpiw4i/public_html/aliveztechnosoft.com/CodeCanyon/TournamentApp/Payment-Gateways/PayUMoney/index.php on line 63
